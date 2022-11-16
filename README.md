@@ -1,6 +1,6 @@
 # jogo-dado
 
-Mini projeto de lógica de programação e JavaScript do Prof. José de Assis (WorkOver Academy).
+Mini projeto de lógica de programação e JavaScript. Aula do Prof. José de Assis (WorkOver Academy).
 Jogo do Dado usando Math para gerar números aleatórios, e também a estrutura Switch Case.
 
 >>Tecnologias
